@@ -40,7 +40,7 @@ Place your input video in the project directory and update its name in the main(
 
 python
 Copy code
-cap = cv2.VideoCapture("input_video.mp4")  # Replace with your video file
+cap = cv2.VideoCapture("input_video.mp4") 
 Run the script:
 
 bash
